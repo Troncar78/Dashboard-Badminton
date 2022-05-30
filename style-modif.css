@@ -1,0 +1,46 @@
+.text{
+        display: inline;
+        font-size: 1.4rem;
+        font-family: 'Arvo';
+        text-align: center;
+    }
+    .niv{
+        font-size: 1.2rem;
+        text-align: center;
+    }
+    h1{
+        text-align: center;
+        }
+                
+    table{
+        width: 60%;
+        text-align: center;
+        margin: 30px auto;
+        border-collapse: collapse;
+        }
+                
+    th{
+        background-color: rgb(193, 222, 224);
+        height: 20px;
+        padding: 2px;
+        }
+                
+    td, th{
+            border: 1px solid rgb(0, 0, 0);
+            }
+    tr:hover{
+            background-color: rgb(193, 222, 224);
+            }
+    .part1{
+        padding-top: 5%;
+    }
+    .form{
+        display: inline-block;
+        width: 500px;
+        margin: 0 35%;
+        border: solid 10px azure;
+        background-color: azure;
+        border-radius: 10px;
+        padding-bottom: 3%;
+        align-items: center;
+        }

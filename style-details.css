@@ -1,0 +1,21 @@
+body{
+    margin:0px;
+    background-color: rgb(146, 168, 209);
+    }
+    @font-face {
+        font-family: 'Arvo';
+        src: url('Arvo-Regular.ttf');
+    }
+    .part2{
+        padding-top: 5%;
+    }
+    .box{
+        display: inline-block;
+        width: 500px;
+        margin: 0 35%;
+        border: solid 10px azure;
+        background-color: azure;
+        border-radius: 10px;
+        padding-bottom: 1%;
+        align-items: center;
+        }
